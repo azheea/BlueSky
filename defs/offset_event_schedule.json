@@ -1,0 +1,1248 @@
+[
+    {
+        "duration": "5760",
+        "name": "visiting_vendor_floatdance",
+        "when": [
+            -17087166
+        ]
+    },
+    {
+        "duration": "1",
+        "name": "aurora_exhaleinhale_countdown",
+        "when": [
+            -17045525,
+            -17031125
+        ]
+    },
+    {
+        "duration": "4",
+        "name": "aurora_eyesofachild",
+        "when": [
+            -17043485
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_float",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "visiting_vendor_questap07",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "visiting_vendor_ap22_miniquest_shop",
+        "when": [
+            -17132525,
+            -17132465,
+            -17132405,
+            -17132345,
+            -17132285,
+            -17132225,
+            -17132165,
+            -17132105,
+            -17132045,
+            -17131985,
+            -17131925,
+            -17131865,
+            -17131805,
+            -17131745,
+            -17131685,
+            -17131625
+        ]
+    },
+    {
+        "duration": "1",
+        "name": "aurora_queendom_countdown",
+        "when": [
+            -17043065
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_proud",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "2",
+        "name": "aurora_minigame_vote_rotation",
+        "when": [
+            -17046245,
+            -17046125,
+            -17046005,
+            -17045885,
+            -17045765,
+            -17045645,
+            -17045525,
+            -17045405,
+            -17045285,
+            -17045165,
+            -17045045,
+            -17044925,
+            -17044805,
+            -17044685,
+            -17044565,
+            -17044445
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_force",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "10080",
+        "name": "weekly_prop_rotation_01",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "59",
+        "name": "skyfest_galleryrainforest",
+        "when": [
+            -17046245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_manta",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1",
+        "name": "ap18_ritual_05",
+        "when": [
+            -17045345,
+            -17044445
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_whale",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1",
+        "name": "wildlifepark_cycle_overcast_night",
+        "when": [
+            -17045765,
+            -17045045,
+            -17044325
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "visiting_vendor_questap18",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "3",
+        "name": "sunset_colosseum_firework_interval",
+        "when": [
+            -17046245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_point",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "5",
+        "name": "global_ann_perf3",
+        "when": [
+            -17045045
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_beacon",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_seek",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "8",
+        "name": "wildlifepark_cycle_not_night_hint",
+        "when": [
+            -17046245,
+            -17045525,
+            -17044805,
+            -17044085
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "visiting_vendor_questap17",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "visiting_vendor_questap12",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "4",
+        "name": "aurora_warrior",
+        "when": [
+            -17044205,
+            -17029805
+        ]
+    },
+    {
+        "duration": "1439",
+        "name": "social_rain_bonfirecamp",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_armwave",
+        "when": [
+            -17082245,
+            -16995845
+        ]
+    },
+    {
+        "duration": "11520",
+        "name": "survey_mainstreet_soundbath_on_exit",
+        "when": [
+            -17255045
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "visiting_vendor_questap22",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_cry",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_shy",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_nothanks",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "visiting_vendor_questap23",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "3",
+        "name": "halloween_cauldron_spell",
+        "when": [
+            -17046245,
+            -17045765,
+            -17045285,
+            -17044805,
+            -17044325,
+            -17043845
+        ]
+    },
+    {
+        "duration": "10",
+        "name": "mainstreet_cycle_morning_B",
+        "when": [
+            -17046245
+        ]
+    },
+    {
+        "duration": "2",
+        "name": "wildlifepark_cycle_morning",
+        "when": [
+            -17046245,
+            -17045525,
+            -17044805,
+            -17044085
+        ]
+    },
+    {
+        "duration": "1",
+        "name": "aurora_orbit_countdown",
+        "when": [
+            -17043245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_thumbsup",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1439",
+        "name": "social_eelwatercreature",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_yawn",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1439",
+        "name": "social_skyway_speedtube",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "3",
+        "name": "aurora_orbit",
+        "when": [
+            -17043245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "quest_tgc_office_vince",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_laugh",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "8",
+        "name": "global_ann_birthday",
+        "when": [
+            -17044445
+        ]
+    },
+    {
+        "duration": "59",
+        "name": "skyfest_gallerydawn",
+        "when": [
+            -17046245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_sneaky",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "3",
+        "name": "fireworks_show_act1",
+        "when": [
+            -17039945
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_wave",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "visiting_vendor_questap10",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "stormy_night",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1",
+        "name": "aurora_warrior_countdown",
+        "when": [
+            -17044265,
+            -17029865
+        ]
+    },
+    {
+        "duration": "1",
+        "name": "tgc_concert_lighting_wax",
+        "when": [
+            -17046125,
+            -17046005,
+            -17045885,
+            -17045765,
+            -17045645,
+            -17045525,
+            -17045405,
+            -17045285,
+            -17045165,
+            -17045045,
+            -17044925,
+            -17044805,
+            -17044685,
+            -17044565,
+            -17044445,
+            -17044325
+        ]
+    },
+    {
+        "duration": "48",
+        "name": "aurora_concert",
+        "when": [
+            -17045645,
+            -17031245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "visiting_vendor_questap16",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "4",
+        "name": "aurora_exhaleinhale",
+        "when": [
+            -17045525,
+            -17031125
+        ]
+    },
+    {
+        "duration": "0",
+        "name": "gen_shop_daily_reset",
+        "when": [
+            -16995845
+        ]
+    },
+    {
+        "duration": "1",
+        "name": "aurora_theseed_countdown",
+        "when": [
+            -17043845
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_backflip",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1",
+        "name": "aurora_runaway_countdown",
+        "when": [
+            -17045165,
+            -17030765
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "visiting_vendor_ap22_miniquest_house",
+        "when": [
+            -17132525,
+            -17132465,
+            -17132405,
+            -17132345,
+            -17132285,
+            -17132225,
+            -17132165,
+            -17132105,
+            -17132045,
+            -17131985,
+            -17131925,
+            -17131865,
+            -17131805,
+            -17131745,
+            -17131685,
+            -17131625
+        ]
+    },
+    {
+        "duration": "2",
+        "name": "aurora_exhaleinhale_wrap",
+        "when": [
+            -17045285,
+            -17030885
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_salute",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "15",
+        "name": "ap18_ritual_timer_15",
+        "when": [
+            -17046245,
+            -17045345,
+            -17044445
+        ]
+    },
+    {
+        "duration": "7",
+        "name": "ap18_ritual_04_audience_lobby",
+        "when": [
+            -17045765,
+            -17044865,
+            -17043965
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "visiting_vendor_questap20",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_strong",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "global_fireworks_show",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "4",
+        "name": "aurora_runaway",
+        "when": [
+            -17045105,
+            -17030705
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_ohno",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "16",
+        "name": "fireworks_show_medpad",
+        "when": [
+            -17040005
+        ]
+    },
+    {
+        "duration": "10080",
+        "name": "social_feed_prompt_surprise_party",
+        "when": [
+            -17341445
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "visiting_vendor_ap22_miniquest_social",
+        "when": [
+            -17132525,
+            -17132465,
+            -17132405,
+            -17132345,
+            -17132285,
+            -17132225,
+            -17132165,
+            -17132105,
+            -17132045,
+            -17131985,
+            -17131925,
+            -17131865,
+            -17131805,
+            -17131745,
+            -17131685,
+            -17131625
+        ]
+    },
+    {
+        "duration": "1",
+        "name": "ap18_ritual_04",
+        "when": [
+            -17045345,
+            -17044445
+        ]
+    },
+    {
+        "duration": "1",
+        "name": "ap18_ritual_02",
+        "when": [
+            -17045345,
+            -17044445
+        ]
+    },
+    {
+        "duration": "2",
+        "name": "aurora_warrior_wrap",
+        "when": [
+            -17043965
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "visiting_vendor_questap11",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "rain_darkstone_0",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1",
+        "name": "aurora_softinside_countdown",
+        "when": [
+            -17044745,
+            -17030345
+        ]
+    },
+    {
+        "duration": "4",
+        "name": "aurora_theseed",
+        "when": [
+            -17043785
+        ]
+    },
+    {
+        "duration": "3",
+        "name": "wildlifepark_cycle_day",
+        "when": [
+            -17046065,
+            -17045345,
+            -17044625
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_rhythmicclap",
+        "when": [
+            -17082245,
+            -16995845
+        ]
+    },
+    {
+        "duration": "1439",
+        "name": "social_dusk_spitroastpassive",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_brave",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_bow",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "0",
+        "name": "tgc_concert_lamp",
+        "when": [
+            -17045645,
+            -17045045,
+            -17044445
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_butterfly",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_love",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "quest_sunset_flyrace",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "9",
+        "name": "aurora_soundbath_session",
+        "when": [
+            -17046245,
+            -17045645,
+            -17045045,
+            -17044445,
+            -17043845
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_lookaround",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "5",
+        "name": "mainstreet_cycle_overcast_day_B",
+        "when": [
+            -17045645
+        ]
+    },
+    {
+        "duration": "1439",
+        "name": "social_sunset_labyrinth",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "15",
+        "name": "global_nature_geyser",
+        "when": [
+            -17046245
+        ]
+    },
+    {
+        "duration": "4",
+        "name": "aurora_queendom",
+        "when": [
+            -17043005
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "visiting_vendor_questap08",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "5",
+        "name": "global_newyear_firework_interval",
+        "when": [
+            -17046245
+        ]
+    },
+    {
+        "duration": "15",
+        "name": "social_rain_grandmatable",
+        "when": [
+            -17044445
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_ghost",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "240",
+        "name": "stormy_intensity_4",
+        "when": [
+            -17052245
+        ]
+    },
+    {
+        "duration": "7",
+        "name": "ap18_ritual_03_audience_lobby",
+        "when": [
+            -17045765,
+            -17044865,
+            -17043965
+        ]
+    },
+    {
+        "duration": "2",
+        "name": "aurora_concert_countdown",
+        "when": [
+            -17045645,
+            -17031245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "visiting_vendor_questap21",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1439",
+        "name": "social_prairie_cozycave",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_cold",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_bird",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_sorry",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "visiting_vendor_questap13",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_handstand",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "7",
+        "name": "ap18_ritual_02_audience_lobby",
+        "when": [
+            -17045765,
+            -17044865,
+            -17043965
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_cape",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "7",
+        "name": "ap18_ritual_05_audience_lobby",
+        "when": [
+            -17045765,
+            -17044865,
+            -17043965
+        ]
+    },
+    {
+        "duration": "4320",
+        "name": "basecamp_rain",
+        "when": [
+            -17168645,
+            -17168585,
+            -17168525,
+            -17168465,
+            -17168405,
+            -17168345,
+            -17168285,
+            -17168225,
+            -17168165,
+            -17168105,
+            -17168045,
+            -17167985,
+            -17167925,
+            -17167865,
+            -17167805,
+            -17167745
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "quest_sunset_race",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "visiting_vendor_questap15",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "visiting_vendor_questap19",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "day_boat",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_die",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "event_night_tcandle_master",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "0",
+        "name": "hub_clocktower",
+        "when": [
+            -17045345,
+            -17044445
+        ]
+    },
+    {
+        "duration": "3",
+        "name": "wildlifepark_cycle_night",
+        "when": [
+            -17045705,
+            -17044985,
+            -17044265
+        ]
+    },
+    {
+        "duration": "5",
+        "name": "aurora_softinside",
+        "when": [
+            -17044685,
+            -17030285
+        ]
+    },
+    {
+        "duration": "25",
+        "name": "mainstreet_cycle_day_B",
+        "when": [
+            -17045345
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_cheer",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "dusk_darkstone_0",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_come",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "event_night_tcandles1",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "0",
+        "name": "gen_shop_weekly_reset",
+        "when": [
+            -16477445
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_pray",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_pout",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "5",
+        "name": "global_ann_perf1",
+        "when": [
+            -17046245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "dusk_quest",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "10080",
+        "name": "musicshop_weekly_rotation_03",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "2",
+        "name": "wildlifepark_cycle_sunset",
+        "when": [
+            -17045885,
+            -17045165,
+            -17044445
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_wipe",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "visiting_vendor_questap06",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "2",
+        "name": "aurora_runaway_wrap",
+        "when": [
+            -17044865,
+            -17030465
+        ]
+    },
+    {
+        "duration": "10080",
+        "name": "wing_buff_conversion_period",
+        "when": [
+            -17168645
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_raisetheroof",
+        "when": [
+            -17082245,
+            -16995845
+        ]
+    },
+    {
+        "duration": "2",
+        "name": "fetch_manta_fertilizer_01",
+        "when": [
+            -17046245,
+            -17046005,
+            -17045765,
+            -17045525,
+            -17045285,
+            -17045045,
+            -17044805,
+            -17044565,
+            -17044325,
+            -17044085
+        ]
+    },
+    {
+        "duration": "1",
+        "name": "ap18_ritual_03",
+        "when": [
+            -17045345,
+            -17044445
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "visiting_vendor_questap14",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "2",
+        "name": "aurora_softinside_wrap",
+        "when": [
+            -17044385,
+            -17029985
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "visiting_vendor_questap09",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "5",
+        "name": "global_ann_perf2",
+        "when": [
+            -17045645
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_twirl",
+        "when": [
+            -17082245,
+            -16995845
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "collectible_scared",
+        "when": [
+            -17082245
+        ]
+    },
+    {
+        "duration": "59",
+        "name": "skyfest_soundbath",
+        "when": [
+            -17046245
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "global_weekend_shop",
+        "when": [
+            -16736645
+        ]
+    },
+    {
+        "duration": "25",
+        "name": "season_21_deersummon",
+        "when": [
+            -17046245,
+            -17044445,
+            -17042645
+        ]
+    },
+    {
+        "duration": "1",
+        "name": "aurora_eyesofachild_countdown",
+        "when": [
+            -17043545
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "global_daily_reset_time",
+        "when": [
+            -17082245,
+            -16995845
+        ]
+    },
+    {
+        "duration": "1",
+        "name": "wildlifepark_cycle_overcast_day",
+        "when": [
+            -17046125,
+            -17045405,
+            -17044685
+        ]
+    },
+    {
+        "duration": "1440",
+        "name": "season_a_dusk_candles1",
+        "when": [
+            -17082245
+        ]
+    }
+]

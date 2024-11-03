@@ -1,0 +1,34 @@
+{
+    "status" : "OK",
+    "update_messages" : [
+       {
+          "payload" : {
+             "attachments" : [
+                {
+                   "name" : "ABC",
+                   "title" : "def",
+                   "type" : "link",
+                   "url" : "https://www.thatskygame.com/news/skyfest-2024-an-anniversary-celebration-like-no-other"
+                }
+             ],
+             "body" : "Welcome to BlueSky Server!",
+             "headers" : {
+                "expires_at" : 1722063540,
+                "from" : "44e9f7e2-c9fb-4328-87d4-3544221856ce",
+                "has_attachments" : true,
+                "id" : "66919d2a610d74e457876227",
+                "received_at" : 1720818986,
+                "sent_at" : 1720818986,
+                "to" : "28696b5b-3fd0-4b47-bfe0-bdfab9328214",
+                "type" : "event"
+             },
+             "properties" : {
+                "hasCurrencies" : false,
+                "hasLinks" : true,
+                "hasUnlocks" : false
+             },
+             "subject" : "SkyFest: A Huge 5th Birthday Party for Everyone!"
+          }
+       }
+    ]
+ }

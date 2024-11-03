@@ -1,0 +1,65 @@
+
+{
+   "authinfo" : {
+      "device" : "",
+      "key" : "no_bcrypt",
+      "recovery_token" : "",
+      "user" : "28696b5b-3fd0-4b47-bfe0-bdfab9328214"
+   },
+   "external_links" : [
+      {
+         "alias" : "Buga_Luga007",
+         "player_id" : "76561199698282316",
+         "type" : "Steam"
+      }
+   ],
+   "resource_list" : [
+      "device_capabilities",
+      "userdata",
+      "set_friends",
+      "set_friend_statues",
+      "online_friends",
+      "set_rank",
+      "currency",
+      "forge_rates",
+      "motd",
+      "outfit_defs",
+      "achievements",
+      "achievement_stats",
+      "relationship_defs",
+      "questionnaires",
+      "event_schedule",
+      "set_world_quests",
+      "iap_list",
+      "invite_list",
+      "unlocks",
+      "get_shop",
+      "spirit_shops",
+      "collectibles",
+      "wing_buffs",
+      "gift_messages",
+      "set_app_badge_number",
+      "get_consumable_defs",
+      "get_consumables",
+      "get_buff_defs",
+      "get_buffs",
+      "get_lootboxes",
+      "checkpoints",
+      "generic_shop_defs",
+      "external_account_friends",
+      "serendipity_matches",
+      "get_star_tag_defs",
+      "status_unlocks",
+      "free_gifts",
+      "get_map_defs",
+      "achievement_defs",
+      "achievement_stats_tracking",
+      "event_currency_defs",
+      "infractions",
+      "get_user_profile",
+      "emote_sequences",
+      "video_defs",
+      "messages"
+   ],
+   "session" : "c96c4ac19fd8ead1e884e4a852a7e933"
+} 

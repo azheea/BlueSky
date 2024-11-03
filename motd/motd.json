@@ -1,0 +1,24 @@
+{
+    "motd": "早安,你玩原神吗?",
+    "motd_title": "快来玩原神!!!!!!!",
+    "motd_version": 137688,
+    "motd_buttons": [
+        {
+            "url": "https://ys.mihoyo.com",
+            "img": "Icon_tiktok"
+        },
+        {
+            "url": "https://www.youtube.com/user/thatgamecompany",
+            "img": "Icon_youtube"
+        },
+        {
+            "url": "https://twitter.com/thatskygame?lang=en",
+            "img": "Icon_twitter"
+        },
+        {
+            "url": "https://discord.gg/thatskygame",
+            "img": "Icon_discord"
+        }
+    ],
+    "motd_season_end" : 99999999
+}

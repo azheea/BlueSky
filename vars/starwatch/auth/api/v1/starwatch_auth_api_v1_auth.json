@@ -1,0 +1,41 @@
+{
+    "acls" : {
+       "publish" : [
+          "sky/live/device/iexwgv3rjfbdo4bsjnhxiqtnofdgswtqhflte2rlmrufcwdrhb5e66sygbtda4tomfdgu4q-/user/28696b5b-3fd0-4b47-bfe0-bdfab9328214/event/+",
+          "sky/live/device/iexwgv3rjfbdo4bsjnhxiqtnofdgswtqhflte2rlmrufcwdrhb5e66sygbtda4tomfdgu4q-/user/28696b5b-3fd0-4b47-bfe0-bdfab9328214/remote/prompt"
+       ],
+       "subscribe" : [
+          "sky/live/device/iexwgv3rjfbdo4bsjnhxiqtnofdgswtqhflte2rlmrufcwdrhb5e66sygbtda4tomfdgu4q-/user/28696b5b-3fd0-4b47-bfe0-bdfab9328214/remote/submit"
+       ]
+    },
+    "expiresSeconds" : 86400,
+    "isJwt" : true,
+    "mqtt" : {
+       "brokerUrl" : "stream.starwatch.ai",
+       "clientId" : "sky-live-game-5Zr6W5vUCqMLwBkfEbhsSY",
+       "password" : "eyJhbGciOiJIUzI1NiJ9.eyJjbGllbnRfaWQiOiJza3ktbGl2ZS1nYW1lLTVacjZXNXZVQ3FNTHdCa2ZFYmhzU1kiLCJ1c2VybmFtZSI6InVzZXI6OnNreS1saXZlLWdhbWUtNVpyNlc1dlVDcU1Md0JrZkViaHNTWSIsImFjbCI6eyJwdWIiOlsic2t5L2xpdmUvZGV2aWNlL2lleHdndjNyamZiZG80YnNqbmh4aXF0bm9mZGdzd3RxaGZsdGUycmxtcnVmY3dkcmhiNWU2NnN5Z2J0ZGE0dG9tZmRndTRxLS91c2VyLzI4Njk2YjViLTNmZDAtNGI0Ny1iZmUwLWJkZmFiOTMyODIxNC9ldmVudC8rIiwic2t5L2xpdmUvZGV2aWNlL2lleHdndjNyamZiZG80YnNqbmh4aXF0bm9mZGdzd3RxaGZsdGUycmxtcnVmY3dkcmhiNWU2NnN5Z2J0ZGE0dG9tZmRndTRxLS91c2VyLzI4Njk2YjViLTNmZDAtNGI0Ny1iZmUwLWJkZmFiOTMyODIxNC9yZW1vdGUvcHJvbXB0Il0sInN1YiI6WyJza3kvbGl2ZS9kZXZpY2UvaWV4d2d2M3JqZmJkbzRic2puaHhpcXRub2ZkZ3N3dHFoZmx0ZTJybG1ydWZjd2RyaGI1ZTY2c3lnYnRkYTR0b21mZGd1NHEtL3VzZXIvMjg2OTZiNWItM2ZkMC00YjQ3LWJmZTAtYmRmYWI5MzI4MjE0L3JlbW90ZS9zdWJtaXQiXX0sImlhdCI6MTcyMDgxODk2OSwiaXNzIjoic3ctYXV0aCIsImF1ZCI6InN3LWJyb2tlciIsImV4cCI6MTcyMDkwNTM2OSwianRpIjoidG1nUVpXQU5qaWY5SjY0eVB5OHlzdyJ9.PgBOL4xv3smioYigwhXlqMTkHReFVdwp77HxCnAOZpk",
+       "username" : "user::sky-live-game-5Zr6W5vUCqMLwBkfEbhsSY"
+    },
+    "ownerId" : "sky::live::game::5Zr6W5vUCqMLwBkfEbhsSY",
+    "settings" : {
+       "blockedEvents" : [
+          "account_resource_waiting",
+          "candle_accepted_cost",
+          "checkpoint",
+          "dayhm_manta_count_03",
+          "debug_trace",
+          "find_prev_game_request",
+          "match_joined",
+          "net_game_connect_attempt",
+          "net_game_move_timeout",
+          "sync_user_data",
+          "*_loaded",
+          "loaded_*",
+          "player_nearby",
+          "player_nearby_left"
+       ],
+       "enableEventPublishing" : true
+    },
+    "starwatchSessionId" : "21b8b9b6-b80a-422c-98a3-9186548331a1"
+}
+ 
